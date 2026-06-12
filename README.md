@@ -138,12 +138,11 @@ Authorized API Access
 <img width="1856" height="825" alt="Screenshot 2026-06-09 171503" src="https://github.com/user-attachments/assets/b1215f20-55bc-44b4-aa21-f83a75c4776b" />
 <img width="1842" height="553" alt="Screenshot 2026-06-09 171532" src="https://github.com/user-attachments/assets/3a131e71-d4e0-47c8-92d0-fe458b05357f" />
 
-## **API testing and documentation**
+### **API testing and documentation**
 <img width="941" height="715" alt="Screenshot 2026-05-21 075752" src="https://github.com/user-attachments/assets/aab93e07-8d36-4b22-8d65-b52217aaa114" />
 
-##**Employee database tables and records**
-<img width="388" height="555" alt="Screenshot 2026-05-22 160049" src="https://github.com/user-attachments/assets/bdef6dee-fcba-4515-b5d5-80d08069dcb3" />
-
+### **Employee database tables and records**
+<img width="388" height="441" alt="Screenshot 2026-05-22 160049" src="https://github.com/user-attachments/assets/25a1af01-aee2-44d3-a667-0880dcdee841" />
 
 
 

@@ -1,13 +1,13 @@
 ### **Employee Management System**
 
 
-📌 Project Overview
+**📌 Project Overview**
 
 Employee Management System is a full-stack web application developed to manage employee records efficiently within an organization. The system allows administrators to perform employee management operations such as adding, updating, viewing, and deleting employee information through a user-friendly interface.
 
 The project follows a modern client-server architecture using React.js for the frontend, ASP.NET Core Web API for the backend, and SQL Server for database management.
 
-🚀 Features
+**🚀 Features**
 Employee Management
 Add new employees
 View employee records
@@ -26,7 +26,8 @@ View role information
 API Documentation
 Swagger UI Integration
 API Testing Support
-🛠️ Technology Stack
+
+**🛠️ Technology Stack**
 Frontend
 React.js
 HTML5
@@ -42,19 +43,16 @@ Entity Framework Core
 Authentication
 JWT (JSON Web Token)
 Tools
-Visual Studio 2022
-Visual Studio Code
+Visual Studio 2026
+
 Swagger UI
 Git & GitHub
 
 <img width="558" height="332" alt="image" src="https://github.com/user-attachments/assets/1a5ff72b-581b-4af9-99aa-a96bb0c91f22" />
 
-
-
 <img width="476" height="581" alt="image" src="https://github.com/user-attachments/assets/6f022892-192f-4493-ba89-03b55ecc6487" />
 
-
-📊 Database Tables
+**📊 Database Tables**
 Employees
 EmployeeId
 FirstName
@@ -79,7 +77,7 @@ UserId
 Username
 Password
 
-🔄 CRUD Operations
+ **🔄 CRUD Operations**
 The system supports complete CRUD functionality:
 
 Create
@@ -98,13 +96,13 @@ Delete
 
 Remove employee records.
 
-🔐 Authentication Flow
+**🔐 Authentication Flow**
 User Login
 Credentials Validation
 JWT Token Generation
 Authorized API Access
 
-📷 Project Screenshots 
+**📷 Project Screenshots**
 
 ### **Login Page**
 <img width="1665" height="827" alt="Screenshot 2026-06-09 171241" src="https://github.com/user-attachments/assets/370986ff-2f71-4555-9ddf-4e9210db61b8" />
@@ -116,12 +114,8 @@ Authorized API Access
 <img width="1533" height="568" alt="Screenshot 2026-06-09 171159" src="https://github.com/user-attachments/assets/fe4cc0c6-a382-48f3-8f52-42bcec2d4b41" />
 
 
-
-
 ### **Employee management dashboard**
 <img width="1915" height="832" alt="Screenshot 2026-06-09 171123" src="https://github.com/user-attachments/assets/dd155355-e343-448e-9753-0a68ec82d627" />
-
-
 
 
 ### **Swagger UI**
@@ -129,27 +123,15 @@ Authorized API Access
 <img width="1842" height="553" alt="Screenshot 2026-06-09 171532" src="https://github.com/user-attachments/assets/3a131e71-d4e0-47c8-92d0-fe458b05357f" />
 
 
-
 ### **API testing and documentation**
 <img width="941" height="715" alt="Screenshot 2026-05-21 075752" src="https://github.com/user-attachments/assets/aab93e07-8d36-4b22-8d65-b52217aaa114" />
-
 
 
 ### **Employee database tables and records**
 <img width="388" height="441" alt="Screenshot 2026-05-22 160049" src="https://github.com/user-attachments/assets/25a1af01-aee2-44d3-a667-0880dcdee841" />
 
 
-
-
-
-
-
-
-
-
-
-
-🎯 Learning Outcomes
+**🎯 Learning Outcomes**
 Full Stack Application Development
 REST API Development
 Database Design and Integration
@@ -159,7 +141,7 @@ React Component Development
 API Testing with Swagger
 Version Control using Git & GitHub
 
-📈 Future Enhancements
+**📈 Future Enhancements**
 Dashboard Analytics
 Employee Attendance Module
 Leave Management System
@@ -168,12 +150,12 @@ Email Notifications
 Role-Based Access Control
 Cloud Deployment
 
-👩‍💻 Developer
+**👩‍💻 Developer**
 
 Amrita Aauji
 
 Full Stack Developer
 
-📜 License
+**📜 License**
 
 This project was developed for S.P Financial Services during my internship.

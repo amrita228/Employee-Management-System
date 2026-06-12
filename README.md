@@ -44,31 +44,13 @@ Visual Studio 2022
 Visual Studio Code
 Swagger UI
 Git & GitHub
-🏗️ System Architecture
-React Frontend
-       │
-       ▼
-ASP.NET Core Web API
-       │
-       ▼
-SQL Server Database
 
-📂 Project Structure
-EmployeeManagementSystem
-│
-├── employee-management-ui
-│   ├── src
-│   ├── public
-│   └── package.json
-│
-├── EmployeeManagementAPI
-│   ├── Controllers
-│   ├── Models
-│   ├── Data
-│   ├── Services
-│   └── Program.cs
-│
-└── EmployeeManagementSystem.sln
+<img width="558" height="332" alt="image" src="https://github.com/user-attachments/assets/1a5ff72b-581b-4af9-99aa-a96bb0c91f22" />
+
+
+
+<img width="476" height="581" alt="image" src="https://github.com/user-attachments/assets/6f022892-192f-4493-ba89-03b55ecc6487" />
+
 
 📊 Database Tables
 Employees

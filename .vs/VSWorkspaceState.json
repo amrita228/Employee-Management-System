@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\employee-management-ui",
+    "\\employee-management-ui\\src",
+    "\\employee-management-ui\\src\\styles",
+    "\\EmployeeManagementAPI",
+    "\\EmployeeManagementAPI\\Middleware",
+    "\\EmployeeManagementAPI\\Migrations",
+    "\\EmployeeManagementAPI\\Models",
+    "\\EmployeeManagementAPI\\obj",
+    "\\EmployeeManagementAPI\\obj\\Debug"
+  ],
+  "SelectedNode": "\\employee-management-ui\\src\\pages\\Employees.js",
+  "PreviewInSolutionExplorer": false
+}
